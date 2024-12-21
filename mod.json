@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "trealdry.secretvaultmusicfix",
+	"name": "secretvaultmusicfix",
+	"version": "v1.0.0",
+	"developer": "TrealDry",
+	"description": "Fixes a bug when a player exits “the challenge” level and the menu music plays. In this case, when exiting this level, the music of the secret vault is played."
+}
